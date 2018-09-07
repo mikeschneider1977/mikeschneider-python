@@ -2,7 +2,7 @@ print('i love python')
 
 myName = input()
 
-print(myName)
+print("my name is " + myName)
 
 print(5 + 5)
 
