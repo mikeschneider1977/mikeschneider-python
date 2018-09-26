@@ -1,6 +1,6 @@
 def main():
     print('start here')
-    ## pirnt title
+    ## print title
 
     ## ask for input
 
@@ -17,13 +17,13 @@ def main():
 
     ## print average grade
 
-    ## call getLetterGrae function with average grade as argument
+    ## call getLetterGrade function with average grade as argument
     ## 1 argument gets passed to getLetterGrade
     getLetterGrade()
 
     ## print letter grade
 
-    ## determiinem if letter grade is passing or failing and print
+    ## determine if letter grade is passing or failing and print
 
 
 
@@ -35,7 +35,7 @@ def getYearInSchool():  ## 1 argument
 
 def calcAverageGrade(): ## 2 arguments
     print('calcAverageGrade')
-    ## calculate average grade  and return value to main
+    ## calculate average grade and return value to main
 
 
 def getLetterGrade():  ## 1 argument
