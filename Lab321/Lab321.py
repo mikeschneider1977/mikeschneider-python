@@ -15,11 +15,10 @@ def main():
         print(yearStr)
 
     # allClasses list can be 4 to 6 numbers
-    allClasses = [66.0, 88.5, 41.0, 10, 22.9, 65]
-    numClasses = len(allClasses)
+    allClasses = [100.0, 88.5, 96.0,92.9, 100]
 
     # pass a list to funciton that calculates GPA
-    yourGpa = getGpa(allClasses, numClasses)
+    yourGpa = getGpa(allClasses)
     print('\nYour current GPA is - ' + str(yourGpa))
 
     # pass GPA to function that determines your letter grade
@@ -52,15 +51,22 @@ def getYearInSchool(year):
 
 
 # returns GPA
-def getGpa(myClasses, myNum):
-    if myNum == 6:
-        totalScore = myClasses[0] + myClasses[1] + myClasses[2] + myClasses[3] + myClasses[4] + myClasses[5]
-    if myNum == 5:
-        totalScore = myClasses[0] + myClasses[1] + myClasses[2] + myClasses[3] + myClasses[5]
-    if myNum == 4:
-        totalScore = myClasses[0] + myClasses[1] + myClasses[2] + myClasses[3]
+def getGpa(myClasses):
 
-    return totalScore / myNum
+
+    ##if myNum == 6:
+        ##totalScore = myClasses[0] + myClasses[1] + myClasses[2] + myClasses[3] + myClasses[4] + myClasses[5]
+    ##if myNum == 5:
+        ##totalScore = myClasses[0] + myClasses[1] + myClasses[2] + myClasses[3] + myClasses[5]
+    ##if myNum == 4:
+        ##totalScore = myClasses[0] + myClasses[1] + myClasses[2] + myClasses[3]
+
+    totalScore = 0
+
+    for num in myClasses:
+        totalScore = totalScore + num
+
+    return totalScore / len(myClasses)
 
 
 # using GPA rertruns letter grade

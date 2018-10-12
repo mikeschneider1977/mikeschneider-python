@@ -2,22 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55c9553a-866d-4ac7-8e71-1301758f3a07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Unit2CLabTeach/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2CLabTeach/Unit2CLabTeach.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2CLecture/Unit2CLecture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit2Clab/Unit2Clab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit3Bonus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit3Lab/Unit3Lab.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloSeattle/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloSeattle/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloSeattle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloSeattle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloTacoma/.idea/HelloTacoma.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloTacoma/.idea/HelloTacoma.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloTacoma/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloTacoma/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloTacoma/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloTacoma/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloTacoma/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloTacoma/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unit2A/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit2A/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unit2B/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit2B/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unit2B/Unit2B.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit2B/Unit2B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit4ALab/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab321/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab321/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab321/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab321/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab321/Lab321.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit4ALab/Unit4ALab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab321/Lab321.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab321/Lab321.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit3Lab/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit3Lab/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit3Lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit3Lab/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,11 +21,11 @@
     <session id="-1205975126">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -64,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Unit3Bonus.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1140">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="570">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -89,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="816" />
@@ -159,8 +151,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -184,8 +175,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Unit3Bonus.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
