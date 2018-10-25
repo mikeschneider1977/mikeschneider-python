@@ -2,28 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d08481bd-8ff2-469c-8260-b8ef9cbade16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../GameTest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit4ALab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit4CLab/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit4CLab/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit4CLab/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit4CLab/Unit4CLab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit4DLab/Unit4DLab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameTest/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GameTest/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GameTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameTest/GameTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GameTest/GameTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab321/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab321/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab321/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab321/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab321/Lab321.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameTest/GameTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab321/Lab321.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab321/Lab321.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unit1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unit2CLabTeach/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit2CLabTeach/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unit2CLabTeach/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit2CLabTeach/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unit2CLecture/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit2CLecture/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unit2CLecture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit2CLecture/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unit2Clab/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit2Clab/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unit2Clab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit2Clab/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Unit3Bonus/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit3Bonus/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Unit3Bonus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit3Bonus/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Unit3Lab/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit3Lab/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Unit3Lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit3Lab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4ALab.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit4ALab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4CLab/.idea/Unit4CLab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit4CLab/.idea/Unit4CLab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4CLab/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit4CLab/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4CLab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit4CLab/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,10 +30,11 @@
     <session id="-960371927">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
-          <entry key="project.open.time.0" value="11" />
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.0" value="14" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="3" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -53,12 +49,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1946" />
+          <entry key="py" value="2127" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1946" />
+          <entry key="Python" value="2127" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -69,12 +65,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Unit4ALab.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            <state relative-caret-position="585">
+              <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
               <folding>
-                <marker date="1538577925920" expanded="true" signature="11:262" ph="..." />
-                <marker date="1538577925920" expanded="true" signature="260:261" ph="..." />
-                <marker date="1538577925920" expanded="true" signature="614:708" ph="..." />
+                <marker date="1539868914376" expanded="true" signature="11:367" ph="..." />
+                <marker date="1539868914376" expanded="true" signature="365:366" ph="..." />
+                <marker date="1539868914376" expanded="true" signature="719:848" ph="..." />
+                <marker date="1539868914376" expanded="true" signature="844:848" ph="..." />
               </folding>
             </state>
           </provider>
@@ -204,12 +201,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Unit4ALab.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        <state relative-caret-position="585">
+          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
           <folding>
-            <marker date="1538577925920" expanded="true" signature="11:262" ph="..." />
-            <marker date="1538577925920" expanded="true" signature="260:261" ph="..." />
-            <marker date="1538577925920" expanded="true" signature="614:708" ph="..." />
+            <marker date="1539868914376" expanded="true" signature="11:367" ph="..." />
+            <marker date="1539868914376" expanded="true" signature="365:366" ph="..." />
+            <marker date="1539868914376" expanded="true" signature="719:848" ph="..." />
+            <marker date="1539868914376" expanded="true" signature="844:848" ph="..." />
           </folding>
         </state>
       </provider>

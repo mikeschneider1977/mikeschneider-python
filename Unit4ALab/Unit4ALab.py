@@ -4,11 +4,18 @@ def main():
     noVowels = deVowel(inputString)
     print (noVowels)
 
+    myList = ['a','b','c']
+    print(myList)
+    myList.remove('a')
+    print(myList)
+
     someNumbers = [2, 4, 6, 8 ]
     print(someNumbers)
 
     calcNumbers = mathStuff(someNumbers, 3)
     print(calcNumbers)
+    doStuff(1,1)
+
 
 def deVowel(myString):
     returnString = ''
@@ -29,6 +36,11 @@ def mathStuff(myList, num):
         myCalcs.append(x * num)
 
     return myCalcs
+
+def doStuff(x,y):
+    z = x + y
+
+
 
 
 main()

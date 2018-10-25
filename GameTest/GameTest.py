@@ -18,3 +18,9 @@ winOrDie[winLocation] = 'win'
 
 print(winOrDie)
 
+x = 1
+while x == 1:
+    strX = input('number please')
+    x = int(strX)
+
+

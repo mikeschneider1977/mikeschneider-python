@@ -2,16 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8894d8c3-9175-43fc-975a-ac9990e96378" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Unit2Clab/Unit2Clab.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloSeattle/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloSeattle/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloSeattle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloSeattle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloTacoma/.idea/HelloTacoma.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloTacoma/.idea/HelloTacoma.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloTacoma/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloTacoma/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloTacoma/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloTacoma/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloTacoma/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloTacoma/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unit2A/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit2A/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit2B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit2B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiceGame/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiceGame/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiceGame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiceGame/DiceGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiceGame/DiceGameExtra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit4DLab/Unit4DLab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameTest/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GameTest/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GameTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameTest/GameTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GameTest/GameTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab321/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab321/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab321/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab321/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab321/Lab321.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab321/Lab321.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit2Clab/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit2Clab/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit2Clab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit2Clab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit3Bonus/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit3Bonus/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit3Bonus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit3Bonus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit3Lab/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit3Lab/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit3Lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit3Lab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4ALab/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit4ALab/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4ALab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit4ALab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4ALab/Unit4ALab.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit4ALab/Unit4ALab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4CLab/.idea/Unit4CLab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit4CLab/.idea/Unit4CLab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4CLab/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit4CLab/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4CLab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit4CLab/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,10 +37,10 @@
     <session id="428596252">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.0" value="8" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="9" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -58,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Unit2B.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="57">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -84,8 +98,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="117" />
-    <option name="y" value="121" />
+    <option name="y" value="44" />
     <option name="width" value="1440" />
     <option name="height" value="817" />
   </component>
@@ -154,7 +167,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="117" y="121" width="1440" height="817" extended-state="0" />
+    <frame x="0" y="44" width="1440" height="817" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -182,8 +195,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Unit2B.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="57">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>

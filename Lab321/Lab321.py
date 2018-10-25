@@ -15,7 +15,13 @@ def main():
         print(yearStr)
 
     # allClasses list can be 4 to 6 numbers
-    allClasses = [100.0, 88.5, 96.0,92.9, 100]
+    #allClasses = [100.0, 88.5, 96.0,92.9, 100]
+    allClasses = [0] * 4
+
+    num = input('how many grades - ')
+    for x in range(0, int(num)):
+        allClasses[x] = int(input('grade - '))
+
 
     # pass a list to funciton that calculates GPA
     yourGpa = getGpa(allClasses)
@@ -64,6 +70,7 @@ def getGpa(myClasses):
     totalScore = 0
 
     for num in myClasses:
+        print(num)
         totalScore = totalScore + num
 
     return totalScore / len(myClasses)
